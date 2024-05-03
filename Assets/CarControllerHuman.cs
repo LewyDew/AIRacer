@@ -6,7 +6,7 @@ using Unity.MLAgents.Sensors;
 using UnityEngine;
 
 /// <summary>
-/// A hummingbird Machine Learning Agent
+/// A self driving car Machine Learning Agent
 /// </summary>
 public class CarControllerHuman : Agent
 {
